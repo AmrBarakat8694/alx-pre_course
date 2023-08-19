@@ -1,3 +1,2 @@
 My first readme,
-ss
-I'm glad to be in this course
+I'm glad to be in this course, thank you
